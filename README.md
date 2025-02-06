@@ -2,10 +2,6 @@
 
 ###
 
-<img align="right" height="150" src="https://imgflip.com/i/9jbmfg"  />
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -30,6 +26,14 @@
   </a>
   <a href="https://www.linkedin.com/in/cau%C3%A3-felype-68593634b/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/uat6x0wd5ah38gponkp7yy7b2">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=uat6x0wd5ah38gponkp7yy7b2&count=5" alt="Spotify recently played"  />
   </a>
 </div>
 
