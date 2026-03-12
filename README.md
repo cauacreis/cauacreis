@@ -33,7 +33,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="30" alt="intellij logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+</div>
+
 ###
 
 <div align="center">
@@ -41,7 +46,7 @@
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=uat6x0wd5ah38gponkp7yy7b2&count=5" alt="Spotify recently played"  />
   </a>
 </div>
-</p>
+
 ###
 
 <div align="center">
